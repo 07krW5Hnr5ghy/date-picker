@@ -1,6 +1,6 @@
 # Changelog
 
-This project are calendar ui design.
+This project is a calendar ui design.
 
 ## Table of Contents
 
